@@ -1,0 +1,25 @@
+# Ambiente Virtual
+.venv/
+venv/
+*.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos do VS Code
+.vscode/
+
+# Ignorar pasta de dados
+data/
+
+# Dados (Opcional, mas MUITO recomendado)
+# Se seus arquivos de dados (CSV, Excel, etc.) forem grandes
+# ou privados, adicione eles aqui para não subirem.
+# Ex:
+# *.csv
+# *.xlsx    
